@@ -1,6 +1,6 @@
 # Project Introduction 
 
-For a given project that reads RSS feeds. I completed the  test suite and make sure the current brach can pass all test cases.
+For a given project that reads RSS feeds, I completed the test suite and make sure the current brach can pass all test cases.
 
 
 ## How to run
