@@ -9,7 +9,7 @@ For a given project that reads RSS feeds, I completed the test suite and make su
 * To make changes and see how it works, open *./js/app.js* and make changes to the *allFeeds* object
 
 
-## What I did?
+## Steps
 ### All test cases are provided in *./jasmine/spec/feedreader.js*
 * Wrote a test that loops through each feed in the allFeeds object and ensured it has a URL defined and that the URL is not empty.
 * Wrote a test that loops through each feed in the allFeeds object and ensured it has a name defined and that the name is not empty.
